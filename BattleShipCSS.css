@@ -1,0 +1,14 @@
+#bPane
+{
+   -fx-background-image: url("images/starry.png");
+}
+
+#lifeBox
+{
+   -fx-font-size: 24pt;
+   -fx-text-fill: "red";
+}
+
+
+
+
